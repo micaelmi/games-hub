@@ -1,0 +1,33 @@
+/*=========== RESET ==========*/
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Inconsolata", monospace;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+}
