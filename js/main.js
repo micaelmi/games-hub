@@ -29,6 +29,12 @@ let games = [
         description: "Uma mistura do joguinho do dinossauro com nosso herói Mario.",
         url: "https://micaelmi.github.io/mario-jump-game/"
     },
+    {
+        img: "./img/flappy-bird.png",
+        title: "Flappy Bird",
+        description: "Voe desviando dos canos e alcance a maior distância possível!",
+        url: "https://micaelmi.github.io/flappy-bird/"
+    },
 ]
 
 function renderGames() {
